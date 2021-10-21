@@ -1,0 +1,5 @@
+1) Representational state transfer
+2) Architectural style of building API - allows to take request, process it and prepare response
+There are some endpoint, user sends request, computation runs on server, and result sends as a response
+Restful api - api, which uses http
+
