@@ -60,5 +60,5 @@ class Divide(Resource):
 api.add_resource(Add, '/add')
 api.add_resource(Visit, '/visit')
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0')
